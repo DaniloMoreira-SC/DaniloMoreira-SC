@@ -1,40 +1,36 @@
 # 🐉 OverCodes - Danilo Moreira
-
 **Backend Developer | Java | Spring Boot | SQL**
 
-💼 Sobre Mim
+---
 
-Desenvolvedor Backend e Front-end em constante evolução. Trabalho com Java, Spring Boot e bancos de dados, criando soluções reais e práticas. Atualmente construindo projetos que simplificam processos do dia a dia.
+### 💼 Sobre Mim
+Desenvolvedor Backend em constante evolução. Trabalho com Java, Spring Boot e bancos de dados, criando soluções reais e práticas. Atualmente construindo projetos que simplificam processos do dia a dia.
 
-Lema: Aprender → Construir → Evoluir
+**Lema:** Aprender → Construir → Evoluir
 
-🛠️ Tecnologias & Ferramentas
-<div align="center">
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-</div>
+---
 
-📂 Projetos em Destaque
-🚗 DadosEstacionamento
+### 🛠️ Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Sistema de gerenciamento de estacionamento
+---
 
-Java | Spring Boot | MySQL | JDBC
-📦 App Portaria
+### 📂 Projetos em Destaque
 
-Sistema de gestão de encomendas para portaria
+* **🚗 DadosEstacionamento**
+  * **Descrição:** Sistema de gerenciamento de estacionamento
+  * **Stack:** Java | Spring Boot | MySQL | JDBC
 
-Controle de gavetas | Notificações | Admin Dashboard
-📊 Minhas Estatísticas
-Mostrar Imagem
+* **🧾 Organizador de Recibos**
+  * **Descrição:** Sistema para gerenciamento, leitura e organização de recibos e comprovantes
+  * **Stack:** Java | Spring Boot | MySQL | REST API
 
-📞 Conecte-se Comigo
-GitHub: github.com/DaniloMoreira-SC
-Localização: Santa Catarina, Brasil
+---
 
-"Grandes resultados vêm de pequenos avanços consistentes" 🚀
+### 📞 Conecte-se Comigo
+* **GitHub:** [DaniloMoreira-SC](https://github.com/DaniloMoreira-SC)
+* **Localização:** Santa Catarina, Brasil
 
+> *"Grandes resultados vêm de pequenos avanços consistentes"* 🚀
