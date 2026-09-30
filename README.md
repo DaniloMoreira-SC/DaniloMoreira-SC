@@ -1,10 +1,10 @@
 # 🐉 OverCodes - Danilo Moreira
-**Backend Developer | Java | Spring Boot | SQL**
+**Full Stack Developer | Java | Spring Boot | Web Dev (HTML, CSS, JS)**
 
 ---
 
 ### 💼 Sobre Mim
-Desenvolvedor Backend em constante evolução. Trabalho com Java, Spring Boot e bancos de dados, criando soluções reais e práticas. Atualmente construindo projetos que simplificam processos do dia a dia.
+Desenvolvedor Full Stack em formação, focado em criar aplicações completas unindo Backend e Frontend. Estudo Java, Spring Boot, HTML, CSS, JavaScript e integrações com Inteligência Artificial para criar soluções práticas.
 
 **Lema:** Aprender → Construir → Evoluir
 
@@ -28,8 +28,8 @@ Desenvolvedor Backend em constante evolução. Trabalho com Java, Spring Boot e 
   * **Stack:** Java | Spring Boot | MySQL | JDBC
 
 * **🧾 Organizador de Recibos**
-  * **Descrição:** Sistema para gerenciamento, leitura e organização de recibos e comprovantes
-  * **Stack:** Java | Spring Boot | MySQL | REST API
+  * **Descrição:** Aplicação web para gerenciamento, leitura e organização de recibos integrada com Inteligência Artificial
+  * **Stack:** HTML5 | CSS3 | JavaScript | Puter.js (IA)
 
 ---
 
@@ -37,4 +37,4 @@ Desenvolvedor Backend em constante evolução. Trabalho com Java, Spring Boot e 
 * **GitHub:** [DaniloMoreira-SC](https://github.com/DaniloMoreira-SC)
 * **Localização:** Santa Catarina, Brasil
 
-> *"Grandes resultados vêm de pequenos avanços consistentes"* 🚀
+> *"Grandes resultados vêm de pequenos avanços consistentes"* 🚀 
