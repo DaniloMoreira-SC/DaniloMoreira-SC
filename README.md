@@ -1,27 +1,33 @@
-# 🐉 OverCodes - Danilo Moreira
-**Full Stack Developer | Java | Spring Boot | Web Dev (HTML, CSS, JS)**
+<img src="https://i.imgur.com/gE7PXQE.jpeg" height="150">
 
----
+Desenvolvedor Full Stack em formação, focado em criar aplicações completas unindo Backend robusto e Frontend intuitivo. Trabalho com Java, Spring Boot, React, SQL e APIs, integrando Inteligência Artificial para criar soluções práticas.
 
-### 💼 Sobre Mim
-Desenvolvedor Full Stack em formação, focado em criar aplicações completas unindo Backend e Frontend. Estudo Java, Spring Boot, HTML, CSS, JavaScript e integrações com Inteligência Artificial para criar soluções práticas.
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniloMoreira-SC&theme=holi" width="97%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniloMoreira-SC&theme=holi" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniloMoreira-SC&theme=holi" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniloMoreira-SC&theme=holi" width="32%" />
 
-**Lema:** Aprender → Construir → Evoluir
+### 🤖 Tecnologias & Ferramentas
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+</div>
 
-### 🛠️ Tecnologias & Ferramentas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Puter.js](https://img.shields.io/badge/Puter.js-000000?style=for-the-badge&logo=javascript&logoColor=white)
-
----
+----
 
 ### 📂 Projetos em Destaque
+
 
 * **🚗 DadosEstacionamento**
   * **Descrição:** Sistema de gerenciamento de estacionamento
