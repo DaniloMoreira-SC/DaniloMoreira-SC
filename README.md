@@ -26,17 +26,95 @@ Desenvolvedor Full Stack em formação, focado em criar aplicações completas u
 
 ----
 
-### 📂 Projetos em Destaque
+# 📂 Projetos em Destaque
 
 
-* **🚗 DadosEstacionamento**
-  * **Descrição:** Sistema de gerenciamento de estacionamento
-  * **Stack:** Java | Spring Boot | MySQL | JDBC
+* **Sistema de estacionamento**
 
-* **🧾 Organizador de Recibos**
-  * **Descrição:** Aplicação web para gerenciamento, leitura e organização de recibos integrada com Inteligência Artificial
-  * **Stack:** HTML5 | CSS3 | JavaScript | Puter.js (IA)
+Projeto desenvolvido para estudo de Java, JDBC, SQL e Banco de Dados.
 
+# Objetivo
+
+Desenvolver um sistema capaz de controlar a entrada e saída de veículos em um estacionamento, registrando informações e calculando o valor da permanência.
+
+Tecnologias Utilizadas
+
+* Java
+* JDBC
+* MySQL
+* SQL
+* Git
+* GitHub
+* Eclipse IDE
+
+# Funcionalidades
+
+* Cadastro de veículos
+* Registro de entrada
+* Registro de saída
+* Consulta de veículos
+* Integração com banco de dados MySQL
+
+Estrutura do Projeto
+
+```text
+src/
+├── model/
+├── dao/
+├── util/
+└── Main.java
+```
+
+Banco de Dados
+
+O script de criação do banco está disponível no arquivo:
+
+`DADOS_ESTACIONAMENTO.sql`
+
+Autor
+
+Danilo Moreira
+
+GitHub: https://github.com/Danilomoreria
+
+
+---
+
+# Organizador de Recibos
+
+Projeto desenvolvido para leitura, organização e cálculo automático de comprovantes fiscais utilizando Inteligência Artificial.
+
+Objetivo
+
+Desenvolver uma aplicação web capaz de extrair dados de fotos de recibos (local, data e valor total), calcular os gastos acumulados e armazenar as informações no navegador do usuário.
+
+Tecnologias Utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+* Puter.js (IA)
+* LocalStorage
+* Git
+* GitHub
+* VS Code
+
+Funcionalidades
+
+* Leitura e extração de dados de recibos por IA
+* Cálculo automático do total gasto e quantidade de comprovantes
+* Exibição dos recibos em cartões individuais
+* Persistência de dados no navegador (mantenha os recibos ao atualizar a página)
+
+Estrutura do Projeto
+
+```text
+organizador-de-recibos/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+```
 ---
 
 ### 📞 Conecte-se Comigo
